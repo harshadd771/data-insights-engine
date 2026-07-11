@@ -38,6 +38,7 @@ Then open the local URL displayed by Streamlit in your browser.
   - `Transaction Analysis`
   - `Device Dominance`
   - `User Engagement`
+  - `Insurance Analysis`
 
 ## Notes
 - If you change the database credentials, update the connection settings in the dashboard script or configuration files.
