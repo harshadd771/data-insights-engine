@@ -39,9 +39,6 @@ Then open the local URL displayed by Streamlit in your browser.
   - `Device Dominance`
   - `User Engagement`
 
-## Testing
-Add or execute tests in the `tests/` folder.
-
 ## Notes
 - If you change the database credentials, update the connection settings in the dashboard script or configuration files.
-- Data file paths referenced in this repo use `data/raw/` and `data/processed/` for raw and cleaned datasets.
+
